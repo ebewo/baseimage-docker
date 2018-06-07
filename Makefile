@@ -1,4 +1,4 @@
-NAME = phusion/baseimage
+NAME = ebewo/baseimage
 VERSION = latest
 
 .PHONY: all build test tag_latest release ssh
